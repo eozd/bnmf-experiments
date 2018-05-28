@@ -1,4 +1,4 @@
-topic_modelling/build
-rank_estimation/build
+*/build
+*/*.txt
 .ipynb_checkpoints/
 __pycache__/
