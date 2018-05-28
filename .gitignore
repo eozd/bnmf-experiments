@@ -2,9 +2,3 @@ topic_modelling/build
 rank_estimation/build
 .ipynb_checkpoints/
 __pycache__/
-W.txt
-S.txt
-H.txt
-L.txt
-X.txt
-swimmer.txt
